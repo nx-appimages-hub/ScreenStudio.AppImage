@@ -1,0 +1,1 @@
+# ScreenStudio.AppImage

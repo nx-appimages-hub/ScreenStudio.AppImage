@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ScreenStudio 3
+Comment=Streaming, made easy!
+Exec=AppRun %U
+Icon=screenstudio
+Categories=Graphics;
+Version=1.0
+Type=Application
+Terminal=false
